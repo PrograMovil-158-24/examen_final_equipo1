@@ -149,7 +149,6 @@ packages:
     dependency: "direct main"
     description:
       name: firebase_core
-
       sha256: "67bf0d5fd78f12f51c6b54a72f6141314136a1a90e98b1b7c45e7fac883254ed"
       url: "https://pub.dev"
     source: hosted
@@ -166,7 +165,6 @@ packages:
     dependency: transitive
     description:
       name: firebase_core_web
-
       sha256: "5377eaac3b9fe8aaf22638d87f92b62784f23572e132dfc029195e84d6cb37de"
       url: "https://pub.dev"
     source: hosted
