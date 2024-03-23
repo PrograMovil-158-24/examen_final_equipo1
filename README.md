@@ -1,6 +1,6 @@
 # examen_final_equipo1
 
-A new Flutter project.
+Este proyecto es una aplicación móvil desarrollada con Flutter y Firebase que permite a los usuarios gestionar una colección de vehículos. Los usuarios pueden realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre los vehículos, lo que les permite agregar nuevos vehículos, ver la lista existente, actualizar la información y eliminar los registros. La aplicación utiliza Firebase Firestore para almacenar los datos de los vehículos y Providers para gestionar el estado de la aplicación. El proyecto busca proporcionar una interfaz de usuario intuitiva y atractiva para facilitar la gestión de vehículos.
 
 ## Getting Started
 
